@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shibi%20Periasamy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Shibi%20Periasamy&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Shibi+%F0%9F%91%8B;AI+%26+Data+Science+B.Tech+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+Smarter+Solutions+One+Model+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I'm+Shibi+%F0%9F%91%8B;AI+%26+Data+Science+B.Tech+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+Smarter+Solutions+One+Model+at+a+Time" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -47,30 +47,30 @@ print(me.motto())
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white)
 
 **Machine Learning & Deep Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
 
 **Computer Vision**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&amp;logo=yolo&amp;logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&amp;logo=roboflow&amp;logoColor=white)
 
 **Tools & Platforms**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=black)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&amp;logo=googledrive&amp;logoColor=white)
 
 ---
 
@@ -78,10 +78,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/shibi27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibi27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibi27&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/shibi27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibi27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibi27&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
@@ -90,7 +90,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shibi27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shibi27&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibi27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibi27&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -106,7 +106,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shibi27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shibi27&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -118,10 +118,10 @@ print(me.motto())
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-> ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
+> ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white)
+> ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
 
 - 🧠 Built and evaluated ML models including **CNN image classification (75%+ accuracy)**, Decision Trees, and **TF-IDF + Logistic Regression sentiment analysis (90% accuracy)**
 - 🎬 Developed a **movie recommendation system** achieving RMSE of 0.85
@@ -190,15 +190,15 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shibi27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shibi27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shibi27-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shibi27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shibi--portfolio.vercel.app-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://shibi-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-shibistarzz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shibistarzz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shibi27-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/shibi27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shibi27-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/shibi27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shibi--portfolio.vercel.app-70A5FD?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://shibi-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-shibistarzz%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:shibistarzz@gmail.com)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shibi27&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shibi27&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
