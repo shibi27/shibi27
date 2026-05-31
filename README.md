@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Shibi%20Periasamy&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shibi%20Periasamy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I'm+Shibi+%F0%9F%91%8B;AI+%26+Data+Science+B.Tech+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+Smarter+Solutions+One+Model+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey+there%2C+I'm+Shibi+%F0%9F%91%8B;AI+%26+Data+Science+Student;Machine+Learning+%7C+Computer+Vision;Building+Smarter+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -201,4 +201,4 @@ print(me.motto())
   <img src="https://komarev.com/ghpvc/?username=shibi27&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
