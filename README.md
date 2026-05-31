@@ -43,34 +43,34 @@ print(me.motto())
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 **Machine Learning & Deep Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Computer Vision**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&amp;logo=yolo&amp;logoColor=black)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&amp;logo=roboflow&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
 
 **Tools & Platforms**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=black)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&amp;logo=googledrive&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 
 ---
 
@@ -118,10 +118,10 @@ print(me.motto())
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
-> ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white)
-> ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+> ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+> ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 - 🧠 Built and evaluated ML models including **CNN image classification (75%+ accuracy)**, Decision Trees, and **TF-IDF + Logistic Regression sentiment analysis (90% accuracy)**
 - 🎬 Developed a **movie recommendation system** achieving RMSE of 0.85
@@ -190,10 +190,10 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shibi27-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/shibi27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shibi27-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/shibi27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shibi--portfolio.vercel.app-70A5FD?style=flat-square&amp;logo=vercel&amp;logoColor=white)](https://shibi-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-shibistarzz%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:shibistarzz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shibi27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shibi27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shibi27-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shibi27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shibi--portfolio.vercel.app-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://shibi-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-shibistarzz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shibistarzz@gmail.com)
 
 </div>
 
