@@ -6,8 +6,9 @@
 
 <br/>
 
-<img align="center" width="500" height="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
+<div align="center">
+  <img  width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 ---
 
 ## 🛠 Tech Stack
