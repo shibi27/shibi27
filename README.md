@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shibi%20Periasamy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey+there%2C+I'm+Shibi;Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Aspiring+DL+Developer;Building+Smarter+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey+there%2C+I'm+Shibi;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Aspiring+DL+Developer;Building+Smarter+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
