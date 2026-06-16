@@ -78,7 +78,7 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/shibi27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibi27&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibi27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/shibi27">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibi27&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
@@ -99,14 +99,6 @@ print(me.motto())
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibi27&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shibi27&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
 </div>
 
 ---
