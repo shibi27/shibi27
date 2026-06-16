@@ -132,14 +132,14 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| **[Animal Detection using YOLOv8](https://github.com/shibi27)** | YOLOv8 · OpenCV · Roboflow · Google Colab | 92% detection accuracy · Avg confidence score 0.89 · Automated result storage to Google Drive |
-| **[Fabric Detection Model](https://github.com/shibi27)** | CNN · Keras · Image Augmentation | 89% test accuracy · Classifies cotton, denim, silk & nylon · Designed for smart appliance integration |
+| **[Animal Detection using YOLOv8](https://github.com/shibi27/animal-detection-yollov8)** | YOLOv8 · OpenCV · Roboflow · Google Colab | 92% detection accuracy · Avg confidence score 0.89 · Automated result storage to Google Drive |
+| **[Fabric Detection Model](https://github.com/shibi27/fabric-detection-model)** | CNN · Keras · Image Augmentation | 89% test accuracy · Classifies cotton, denim, silk & nylon · Designed for smart appliance integration |
 
 </div>
 
@@ -150,7 +150,7 @@ print(me.motto())
 <div align="center">
 
 | Achievement | Details |
-|:--:|:-----------:|:-------:|
+|:-----------:|:-------:|
 | **Red Hat Certified System Administrator (RHCSA)** | Industry-recognized Linux & sysadmin certification |
 | **NPTEL – The Joy of Computing using Python** | Elite Silver distinction |
 | **NPTEL – Enhancing Soft Skills & Personality** | Completed with certification |
