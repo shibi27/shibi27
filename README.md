@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shibi%20Periasamy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey+there%2C+I'm+Shibi;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Aspiring+DL+Developer;Building+Smarter+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey+there%2C+I'm+Shibi;Artificial Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Aspiring+DL+Developer;Building+Smarter+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -130,7 +130,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| **[Animal Detection using YOLOv8](https://github.com/shibi27/animal-detection-yollov8)** | YOLOv8 · OpenCV · Roboflow · Google Colab | 92% detection accuracy · Avg confidence score 0.89 · Automated result storage to Google Drive |
+| **[Animal Detection using YOLOv8](https://github.com/shibi27/animal-detection-yolov8)** | YOLOv8 · OpenCV · Roboflow · Google Colab | 92% detection accuracy · Avg confidence score 0.89 · Automated result storage to Google Drive |
 | **[Fabric Detection Model](https://github.com/shibi27/fabric-detection-model)** | CNN · Keras · Image Augmentation | 89% test accuracy · Classifies cotton, denim, silk & nylon · Designed for smart appliance integration |
 
 </div>
