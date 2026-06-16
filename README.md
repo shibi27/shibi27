@@ -6,40 +6,7 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class Shibi:
-    def __init__(self):
-        self.name        = "Shibi Periasamy"
-        self.username    = "shibi27"
-        self.location    = "Chennai, Tamil Nadu, India"
-        self.degree      = "B.Tech – AI & Data Science (CGPA: 8.02)"
-        self.email       = "shibistarzz@gmail.com"
-        self.portfolio   = "https://shibi-portfolio.vercel.app"
-
-        self.stack = [
-            "Python", "Java", "C",
-            "TensorFlow", "PyTorch", "Keras",
-            "YOLOv8", "OpenCV", "Scikit-learn"
-        ]
-
-        self.currently_learning = [
-            "Advanced Computer Vision → Transformers for Vision",
-            "MLOps → Model Deployment & Monitoring",
-            "Large Language Models → Fine-tuning & RAG"
-        ]
-
-        self.fun_fact = "I trained a model to detect animals faster than I can name them 🐾"
-
-    def motto(self):
-        return "Data is the new oil — I'm just the refinery. "
-
-me = Shibi()
-print(me.motto())
-```
-
-<br clear="right"/>
+<img align="center" width="500" height="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
